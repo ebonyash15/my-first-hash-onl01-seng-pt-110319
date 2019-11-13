@@ -1,7 +1,5 @@
 def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+  hair = {"color"=>"blue","texture"=>"3b","length"=>"ear"}
 end
 
 
